@@ -1,4 +1,4 @@
-# Git_Projects
+# Machine Learning Projects
 Various Regression and Classification Machine Learning Models 
 
 Data - Udemy Course
